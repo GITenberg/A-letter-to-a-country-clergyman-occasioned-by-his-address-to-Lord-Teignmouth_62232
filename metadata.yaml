@@ -1,5 +1,8 @@
 _repo: A-letter-to-a-country-clergyman-occasioned-by-his-address-to-Lord-Teignmouth_62232
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62232-h/images/cover.jpg
 creator:
   author:
     agent_name: Owen, John
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51843'
     url: http://www.gutenberg.org/2009/agents/51843
 description: 'Response to #62185.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62232#A-letter-to-a-country-clergyman-occasioned-by-his-address-to-Lord-Teignmouth
 gutenberg_issued: '2020-05-25'
 gutenberg_type: Text
 identifiers:
